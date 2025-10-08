@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 Blank app for SMA
 
 A simple Streamlit app template for you to modify!
 
